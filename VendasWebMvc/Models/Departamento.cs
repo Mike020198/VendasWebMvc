@@ -15,7 +15,7 @@ namespace VendasWebMvc.Models
         {
         }
 
-        public Departamento(int id, string name, int myProperty)
+        public Departamento(int id, string name)
         {
             Id = id;
             Name = name;
